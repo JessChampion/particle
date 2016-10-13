@@ -41,6 +41,8 @@ example.spawn = function( x, y ) {
     particle.moveTo( position );
     particle.color =
         COLOURS[Math.floor(random( 0, COLOURS.length-1 ))];
+    particle.wander = random( 0.5, 2.0 );
+    particle.drag = random( 0.9, 0.99 );
 
 
     // Make it collidable

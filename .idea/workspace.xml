@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3a99345-0fe2-4dc3-9502-d5dbe3d46c5f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/physics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/Particle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/physics.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/css/example.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/drawing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/bubbles.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/cloth.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/crystallization.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/drawing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/flowers.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/linjer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/parallax.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/particles.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/plasma.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/pulse.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/skyline.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/swarm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/tentacles.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/three.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/img/webgl-particles.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/three.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/jasmine/MIT.LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/jasmine/jasmine-html.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/jasmine/jasmine.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/jasmine/jasmine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/spec/sketch.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/particles.html" afterPath="$PROJECT_DIR$/particles.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/sketch.js" afterPath="$PROJECT_DIR$/libs/sketch.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/sketch.min.js" afterPath="$PROJECT_DIR$/libs/sketch.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/physics.js" afterPath="$PROJECT_DIR$/scripts/physics.js" />
     </list>
     <ignored path="sketch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,8 +37,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="40" column="22" selection-start-line="40" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="233">
+              <caret line="41" column="12" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -82,8 +49,8 @@
       <file leaf-file-name="physics.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/physics.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="66" column="43" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+            <state relative-caret-position="414">
+              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -288,12 +255,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476319399479</updated>
-      <workItem from="1476319400998" duration="4406000" />
+      <workItem from="1476319400998" duration="4698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4406000" />
+    <option name="totallyTimeSpent" value="4698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="665" y="-1057" width="1920" height="1057" extended-state="6" />
@@ -307,7 +274,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32988626" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32988626" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -393,16 +360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Particle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -411,10 +368,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/physics.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="66" column="43" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+        <state relative-caret-position="414">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
